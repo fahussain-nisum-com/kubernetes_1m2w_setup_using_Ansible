@@ -1,0 +1,1 @@
+kubeadm join 192.168.117.135:6443 --token ypka7x.d0w2hi37pa5am4qn     --discovery-token-ca-cert-hash sha256:600ec387e25d5950f24c8a26b8b2b1bf31f20187fcd1aa7d8c6e34bf4d6820ba
